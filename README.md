@@ -13,9 +13,9 @@ A primeira tentativa foi a de usar algoritmos para dados desbalanceados,como Rus
 
 Fig1. Algoritmos utilizados e o PR-AUC obtido
 
-
+<br><br>
 <p style="text-align: justify;">
-Com o intuito de melhor os resultados ruins foi utilizado eliminaçao recursiva de variaveis(RFE)
+Com o intuito de melhorar os resultados ruins foi utilizado eliminaçao recursiva de variaveis(RFE)
 </p>
 
 ![View Docs](rfe.png)
