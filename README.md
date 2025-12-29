@@ -18,7 +18,7 @@ Fig1. Algoritmos utilizados e o PR-AUC obtido
 <br><br>
 <p style="text-align: justify;">
  
-Com o intuito de melhorar os resultados ruins foi utilizado eliminaçao recursiva de variaveis(RFE)
+Com o intuito de melhorar os resultados ruins foi utilizado eliminaçao recursiva de variaveis([RFE](https://github.com/topepo/FES/blob/master/11_Greedy_Search_Methods/11_03_Recursive_Feature_Elimination.R))
 
 </p>
 
